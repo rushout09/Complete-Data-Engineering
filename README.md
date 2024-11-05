@@ -10,6 +10,10 @@ Youtube for all the implemented projects and tech interview resources - [Ignito 
 
 [Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
 
+[Essential Skills & Responsibilities for Data Engineers](https://www.datateams.ai/blog/from-beginner-to-expert-essential-skills-and-responsibilities-for-data-engineers)
+
+[Data Engineering salary trends](https://www.datateams.ai/blog/data-engineer-salary-trends-in-india-2024-what-to-expect)
+
 [I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
